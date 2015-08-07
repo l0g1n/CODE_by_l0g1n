@@ -1,2 +1,2 @@
 # python
-Get weibo data
+Python相关脚本
